@@ -14,7 +14,8 @@ const strings = {
 		greeting: {
 			title: 'Hello, Friend!',
 			desc: 'Register with your personal details to use all website services',
-			btnTxt: 'Sign Up',
+			btnTxt: 'Sign Up',			
+			btnAction: 'signup',
 		},
 	},
 	signup: {
@@ -27,6 +28,7 @@ const strings = {
 			title: 'Welcome back!',
 			desc: 'Have an account already? Enter your info to login to your account!',
 			btnTxt: 'Login',
+			btnAction: 'login',
 		},
 	},
 };
