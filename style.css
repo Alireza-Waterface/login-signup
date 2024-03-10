@@ -9,7 +9,7 @@
 
 body {
 	overflow-x: hidden;
-	background: linear-gradient(45deg, aqua, seagreen);
+	background: linear-gradient(45deg, #a64fff, #f2e4ff);
 	min-height: 100vh;
 	display: grid;
 	place-items: center;
